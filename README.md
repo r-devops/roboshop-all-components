@@ -1,8 +1,11 @@
 # RoboShop Project Setup 
 
 In this project we are going to have total 11 components. 
+
 1 - FRONTEND (UI)
+
 6 - BACKEND APPS (API)
+
 4 - DB SERVICES 
 
 List of all the components are 
