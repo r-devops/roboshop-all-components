@@ -22,3 +22,9 @@ List of all the components are
 10. Payment 
 11. Dispatch
 
+*Note:* Those components need to setup in the same order for the application to work initially.
+
+Project Diagram
+
+
+
