@@ -26,7 +26,9 @@ List of all the components are
 
 Project Diagram
 
-![This is an image](diags/roboshop.jpg)
+![RoboShop Project EC2](diags/roboshop.jpg)
+
+## 1. Frontend Setup 
 
 
 
